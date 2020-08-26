@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webdev-colour-picker/static/css/main.6ca4c94c.chunk.css",
+    "main.js": "/webdev-colour-picker/static/js/main.c4ebbc1f.chunk.js",
+    "main.js.map": "/webdev-colour-picker/static/js/main.c4ebbc1f.chunk.js.map",
+    "runtime-main.js": "/webdev-colour-picker/static/js/runtime-main.db394dcd.js",
+    "runtime-main.js.map": "/webdev-colour-picker/static/js/runtime-main.db394dcd.js.map",
+    "static/js/2.b08efecd.chunk.js": "/webdev-colour-picker/static/js/2.b08efecd.chunk.js",
+    "static/js/2.b08efecd.chunk.js.map": "/webdev-colour-picker/static/js/2.b08efecd.chunk.js.map",
+    "index.html": "/webdev-colour-picker/index.html",
+    "precache-manifest.5427c048d4cbd554d3f8813228466904.js": "/webdev-colour-picker/precache-manifest.5427c048d4cbd554d3f8813228466904.js",
+    "service-worker.js": "/webdev-colour-picker/service-worker.js",
+    "static/css/main.6ca4c94c.chunk.css.map": "/webdev-colour-picker/static/css/main.6ca4c94c.chunk.css.map",
+    "static/js/2.b08efecd.chunk.js.LICENSE.txt": "/webdev-colour-picker/static/js/2.b08efecd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db394dcd.js",
+    "static/js/2.b08efecd.chunk.js",
+    "static/css/main.6ca4c94c.chunk.css",
+    "static/js/main.c4ebbc1f.chunk.js"
+  ]
+}
